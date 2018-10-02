@@ -1,0 +1,11 @@
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\bin\Debug\netcoreapp2.0\Delegates.deps.json
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\bin\Debug\netcoreapp2.0\Delegates.runtimeconfig.json
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\bin\Debug\netcoreapp2.0\Delegates.runtimeconfig.dev.json
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\bin\Debug\netcoreapp2.0\Delegates.dll
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\bin\Debug\netcoreapp2.0\Delegates.pdb
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\obj\Debug\netcoreapp2.0\Delegates.csprojAssemblyReference.cache
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\obj\Debug\netcoreapp2.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\obj\Debug\netcoreapp2.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\obj\Debug\netcoreapp2.0\Delegates.AssemblyInfo.cs
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\obj\Debug\netcoreapp2.0\Delegates.dll
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\Delegates\Delegates\obj\Debug\netcoreapp2.0\Delegates.pdb

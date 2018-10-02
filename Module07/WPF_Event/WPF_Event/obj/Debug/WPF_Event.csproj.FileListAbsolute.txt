@@ -1,0 +1,10 @@
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\bin\Debug\WPF_Event.exe.config
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\bin\Debug\WPF_Event.exe
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\bin\Debug\WPF_Event.pdb
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\obj\Debug\WPF_Event.csprojAssemblyReference.cache
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\obj\Debug\WPF_Event.Form1.resources
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\obj\Debug\WPF_Event.Properties.Resources.resources
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\obj\Debug\WPF_Event.csproj.GenerateResource.cache
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\obj\Debug\WPF_Event.csproj.CoreCompileInputs.cache
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\obj\Debug\WPF_Event.exe
+C:\Users\Karl Johnson\Desktop\School\Butler\2018\Fall 2018\Advanced C#\Module 07\WPF_Event\WPF_Event\obj\Debug\WPF_Event.pdb
